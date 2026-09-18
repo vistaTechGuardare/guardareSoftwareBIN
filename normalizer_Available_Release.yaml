@@ -1,0 +1,13 @@
+---
+# NORMALIZER BINARY RELEASE UPDATE FILE
+# ©2026 VistaTech, Inc.
+# PRODUCTION
+#
+#
+# THIS FILE DETERMINES THE LATEST vCOLLECTOR RELEASE FOR THE
+# AUTO UPGRADE SERVICE
+# 
+# RELEASE VERSIONING ** MUST BE 8 DIGITS **
+# -------------------------------------------------------------------
+avail_prod_release: "2026.03.29"
+avail_prod_filename: "normalizer_ r2026.03.29.zip"
