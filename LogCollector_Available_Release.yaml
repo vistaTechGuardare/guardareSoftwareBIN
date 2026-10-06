@@ -9,5 +9,5 @@
 # 
 # RELEASE VERSIONING ** MUST BE 8 DIGITS **
 # ------------------------------------------------------------------
-avail_prod_release: "2026.04.04"
-avail_prod_filename: "LogCollector_r2026.04.04.zip"
+avail_prod_release: "2026.04.08"
+avail_prod_filename: "LogCollector_r2026.04.08.zip"
