@@ -8,6 +8,6 @@
 # AUTO UPGRADE SERVICE
 # 
 # RELEASE VERSIONING ** MUST BE 8 DIGITS **
-# -------------------------------------------------------------------
-avail_prod_release: "2026.04.30"
-avail_prod_filename: "normalizer_r2026.04.30.zip"
+# ------------------------------------------------------------------
+avail_prod_release: "2026.04.31"
+avail_prod_filename: "normalizer_r2026.04.31.zip"
